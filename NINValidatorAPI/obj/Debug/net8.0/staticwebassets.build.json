@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BYvpABIruPbohWAjA49O74OnWs1X889Eq3I8yQkXDgU=",
+  "Source": "NINValidatorAPI",
+  "BasePath": "_content/NINValidatorAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
